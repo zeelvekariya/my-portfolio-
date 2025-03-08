@@ -1,0 +1,65 @@
+/*
+Header.js
+Zeel Rameshbhai Vekariya
+301489564
+29 january 2025
+*/
+img.image_self {
+    width: 190px;
+    border-radius: 20%;
+    height: 208px;
+}
+
+.image_main_inner_class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p.intro_self {
+    font-size: 35px;
+}
+
+h3.intro_self {
+    font-size: 25px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.image_main_inner_class {
+    margin: 20px 0;
+}
+
+.about_name_parent_class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.download_cv_pdf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.download_cv_inner {
+    margin-top: 25px;
+}
+
+a.download_cv_pdf {
+    color: #FFF;
+    font-size: 18px;
+}
+
+.download_cv_pdf svg {
+    margin-left: 15px;
+}
+
+.download_cv_pdf {
+    background-color: rgb(3 7 18);
+    max-width: fit-content;
+    margin: auto;
+    padding: 15px;
+    border-radius: 25px;
+}

@@ -1,0 +1,117 @@
+/*
+Header.js
+Zeel Rameshbhai Vekariya
+301489564
+29 january 2025
+*/
+.contact_page_detail {
+    margin: 0 auto;
+}
+
+.portfolio_head_six {
+    color: #333;
+    font-size: 20px;
+}
+
+.email_name {
+    text-decoration: underline;
+    color: #FFF;
+}
+
+.contact_page_inner {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact_number {
+    color: #FFF;
+}
+
+
+.portfolio_head_six {
+    color: #000;
+}
+
+.portfolio_head_six {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.from_contact_list {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.from_contact_list form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.from_contact_list label {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.from_contact_list input,
+.from_contact_list textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.from_contact_list input:focus,
+.from_contact_list textarea:focus {
+    border-color: #000;
+}
+
+.from_contact_list textarea {
+    resize: vertical;
+    min-height: 60px;
+}
+
+.from_contact_list button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    max-width: fit-content;
+    margin: auto;
+}
+
+.from_contact_list button:hover {
+    background-color: #0056b3;
+}
+
+.from_contact_list button svg {
+    font-size: 1.2px;
+}
+
+input.name_add_user {
+    width: 95%;
+}
+
+.from_contact_list {
+    width: 65%;
+    margin: auto;
+}
+
+textarea.name_add_user {
+    width: 95%;
+}

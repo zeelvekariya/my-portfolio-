@@ -1,0 +1,39 @@
+/*
+Header.js
+Zeel Rameshbhai Vekariya
+301489564
+29 january 2025
+*/
+.order_list_description {
+    list-style-type: disc;
+}
+
+.features_details {
+    text-align: center;
+    max-width: 65%;
+    margin: auto;
+}
+
+.inner_list_service {
+    font-size: 22px;
+}
+
+.image_service_main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img.service_main_inner_img {
+    height: 180px;
+    width: auto;
+    object-fit: cover;
+}
+
+.image_service_main {
+    margin-top: 40px;
+}
+
+.service_top_class {
+    margin-top: 35px;
+}

@@ -1,0 +1,99 @@
+/*
+Header.js
+Zeel Rameshbhai Vekariya
+301489564
+29 january 2025
+*/
+.nav_inner {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+nav.nav_main {
+    display: flex;
+    justify-content: center;
+}
+
+header.main_header_class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_logo_portfolio {
+    position: absolute;
+    left: 0;
+}
+
+header.main_header_class {
+    position: relative;
+}
+
+.nav_inner {
+    background-color: rgb(3 7 18);
+    border-radius: 40px;
+}
+
+.list_name_portfolio {
+    color: rgb(209 213 219 / 72%);
+    font-weight: 500;
+}
+
+li.list_name a:hover {
+    color: #FFF;
+}
+
+.nav_inner {
+    padding: 20px;
+}
+
+li.list_name {
+    margin: 0 20px;
+}
+
+.header_line {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+.header_line:hover::before {
+    border: 2px solid #fff;
+}
+
+
+.header_line::before,
+.header_line::after {
+    content: "";
+    position: absolute;
+    height: -1px;
+    background-color: black;
+    bottom: -10px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+.student_detail {
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+
+.welcome_text {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.student_detail {
+    margin-top: 15px;
+}
+
+img.zv_logo_main {
+    height: 55px;
+    width: 100px;
+}
